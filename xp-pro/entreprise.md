@@ -1,4 +1,4 @@
-# Le nom de l'entreprise
+# La Marketerie
 
 ## L'activité principale
 
